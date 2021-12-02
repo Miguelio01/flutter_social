@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157226146152",
+    "project_id": "mintic-1265",
+    "storage_bucket": "mintic-1265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157226146152:android:208d38b0f6d2c6741e5edd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157226146152-eahfd8a0a6ldii8j2ckshc3mf44o5fga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ6aNys2c9Sb0jqOVgo0VuXElXCJegKOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157226146152-eahfd8a0a6ldii8j2ckshc3mf44o5fga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
